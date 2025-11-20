@@ -1,0 +1,10 @@
+{
+  "name": "kakatiya-constructions",
+  "version": "1.0.0",
+  "description": "Kakatiya Constructions Website",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Static site - use a static server'"
+  },
+  "type": "module"
+}
